@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_true">确定</string>
+    <string name="btn_false">取消</string>
+    <string name="AnswerText">已查看答案</string>
+    <string name="Answerlook">查看答案</string>
+</resources>

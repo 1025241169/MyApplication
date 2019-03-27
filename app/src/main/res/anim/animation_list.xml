@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <!--
+    平移
+    <translate
+        android:fromXDelta="-10"
+        android:fromYDelta="0"
+        android:toXDelta="10"
+        android:toYDelta="0"
+        android:duration="100"
+        android:repeatCount="5"
+        android:repeatMode="reverse"
+        />-->
+    <!--
+    //透明度
+    <alpha
+        android:fromAlpha="0"
+        android:toAlpha="1"
+        android:duration="100"
+        android:repeatCount="3"
+        android:repeatMode="reverse"
+        />-->
+
+   <!-- //旋转
+    <rotate
+        android:fromDegrees="0"
+        android:duration="100"
+        android:toDegrees="360"
+        android:pivotY="50%"
+        android:pivotX="50%"/>-->
+
+    <scale
+        android:duration="100"
+        android:fromYScale="0"
+        android:fromXScale="0"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toYScale="1"
+        android:toXScale="1"
+        />
+</set>
